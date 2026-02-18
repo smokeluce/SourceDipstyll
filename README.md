@@ -1,3 +1,5 @@
+![SourceDipstyll Logo](assets/SourceDipstyll.png)
+
 # SourceDipstyll
 
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
